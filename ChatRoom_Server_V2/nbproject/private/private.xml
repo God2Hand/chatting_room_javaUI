@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/NetBeans/WorkPlace/ChatRoom_Server_V2/src/thread/ClientThread.java</file>
+            <file>file:/F:/NetBeans/WorkPlace/ChatRoom_Server_V2/src/thread/ServerThread.java</file>
+            <file>file:/F:/NetBeans/WorkPlace/ChatRoom_Server_V2/src/thread/BroadCast.java</file>
+            <file>file:/F:/NetBeans/WorkPlace/ChatRoom_Server_V2/src/thread/UploadThread.java</file>
+            <file>file:/F:/NetBeans/WorkPlace/ChatRoom_Server_V2/src/util/JtpUtil.java</file>
+            <file>file:/F:/NetBeans/WorkPlace/ChatRoom_Server_V2/src/view/ServerFrame.java</file>
+            <file>file:/F:/NetBeans/WorkPlace/ChatRoom_Server_V2/src/dao/Server.java</file>
+        </group>
+    </open-files>
+</project-private>
